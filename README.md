@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040287
+# Name: Sangeetha S
+# Date: 31.05.2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="642" height="763" alt="image" src="https://github.com/user-attachments/assets/ca32b30b-f7cd-4c5c-a168-daa2450bb28b" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="592" height="482" alt="image" src="https://github.com/user-attachments/assets/466347d2-8ec2-482c-aa9a-56427e3dff86" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="657" height="498" alt="image" src="https://github.com/user-attachments/assets/f5bd5ba7-8582-4d5c-b16e-b43823f57b03" />
 
 
 
@@ -78,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="306" height="280" alt="image" src="https://github.com/user-attachments/assets/6c38227a-41df-4643-aeb8-2b1f6d5f4a84" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="435" height="585" alt="image" src="https://github.com/user-attachments/assets/cdbfa395-6133-43a8-a50e-19cc8d8379eb" />
 
 
 
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="657" height="385" alt="image" src="https://github.com/user-attachments/assets/cc14fd35-77bc-4690-acc2-28ebc1f34efe" />
 
 
 
@@ -124,4 +130,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop Online Examination system was developed using Star UML Software is done successfully.
-
